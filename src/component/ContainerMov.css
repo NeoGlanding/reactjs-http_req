@@ -1,0 +1,12 @@
+.container__card {
+    border: 1px solid blue;
+    text-align: center;
+    box-sizing: border-box;
+    width: 20rem;
+    height: 20rem;
+    padding: 1rem;
+}
+
+.card__opening {
+    text-align: justify;
+}
